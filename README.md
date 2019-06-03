@@ -4,10 +4,10 @@ To create your new Symfony API application, first make sure you're using PHP 7.1
 
 ## Downald my zip and update project
 
-1 - Downald zip in your machine.
-2 - in repository run composer update => Updating and instaling dependencies
-3 - composer require server  => install server bundle
-4 - bin/console  => Show possible commandes
+1 - Downald zip in your machine.<br>
+2 - in repository run composer update => Updating and instaling dependencies<br>
+3 - composer require server  => install server bundle<br>
+4 - bin/console  => Show possible commandes<br>
 5 - bin/console server:run => run server
 
 
